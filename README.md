@@ -1,3 +1,5 @@
-This is definitely my first repository.
+Current projects:
 
-I am opening it up to learn how to use github, so that I can start to work together with the people working on IPFS and Filecoin.
+1. Online collaboration platform for academic scientists, coded in Ruby, looking for paid freelancers.
+
+2. Crypto-currency-incentivised marketplace for live-streaming video
